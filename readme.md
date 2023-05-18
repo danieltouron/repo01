@@ -6,7 +6,8 @@
 >>![no_se_ve_na_JAJA_Q_LOKO](./Capturas%20MD%20y%20GIT/1.1.PNG "JAJA Q LOKO")
 >- [x] 1.2 - añade un documento llamado __readme.md__ dentro del repositorio (recuerda que ***MD*** es la extension de los ficheros de __Markdown__) y documenta en u interior todos los pasos que vas realizando para crear un repositorio,etc. Puedes añadir fotos o lo que creas conveniente
 >- [x] 1.3 - Añade el fichero que acabamos de añadir al reposiorio al __staging area__, visualiza el estado del repositorio (__con git status__) y ha un __snapshot__ (***commit***) del fichero hacia nuestro repositorio local.¿En que "file status ***lifecycle***" se encuentra el fichero?
-> + Se añade a ***SA*** con ***git add***
+> + Se añade a ***SA*** con ***git add***  
+> 
 ![no_se_ve_na_JAJA_Q_LOKO](./Capturas%20MD%20y%20GIT/1.3.PNG "JAJA Q LOKO")
 >- [x] 1.4 - Intenta subir los ficheros alrepositorio remoto mediante el comando __git push__ ¿se te ocurre que esta pasando?
 >
